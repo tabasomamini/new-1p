@@ -1,0 +1,55 @@
+header {
+    background-color: rgb(48, 56, 59);
+    height: 130px;
+}
+
+.HOne {
+    color: white;
+    padding: 7px
+}
+
+span {
+    color: rgb(238, 160, 15);
+}
+
+header a {
+    text-decoration: none;
+    border: none;
+    float: right;
+    display: inline;
+    padding: 15px;
+    color: white;
+}
+
+div ul li a {
+    text-decoration: none;
+}
+
+.section1 {
+    width: 35%;
+    display: inline;
+    float: left;
+    padding-left: 65px;
+}
+
+.section2 {
+    width: 60%;
+    float: right;
+    display: inline;
+}
+
+.div1 {
+    display: inline;
+    float: left;
+    padding: 20px;
+}
+
+footer {
+    border: 1px solid black;
+}
+
+.footdiv {
+    display: inline;
+    width: 100px;
+    padding: 10px;
+}
